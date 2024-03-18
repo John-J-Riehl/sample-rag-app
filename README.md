@@ -1,4 +1,4 @@
-#SUNLight
+# SUNLight
 
 This repo stores the shell of a Google Colab notebook for the SUNLight app, which students will build in the "LLM-Based Apps" course. To use this, navigate to SUNLight_Template.ipynb in the main branch of the repo, then select "Open in Colab". You can then save the notebook to your Google drive (or anywhere else you like).
 
